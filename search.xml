@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>My awesome title</title>
+    <url>/2016/10/12/%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="今日内容"><a href="#今日内容" class="headerlink" title="今日内容"></a>今日内容</h1><pre><code>1. 综合练习
+    1. 简单功能
+        1. 列表查询
+        2. 登录
+        3. 添加
+        4. 删除
+        5. 修改
+        
+    2. 复杂功能
+        1. 删除选中
+        2. 分页查询
+            * 好处：
+                1. 减轻服务器内存的开销
+                2. 提升用户体验
+        3. 复杂条件查询
+</code></pre>
+<h2 id="2-登录"><a href="#2-登录" class="headerlink" title="2. 登录"></a>2. 登录</h2><pre><code>1. 调整页面，加入验证码功能
+2. 代码实现
+</code></pre>
+]]></content>
+      <categories>
+        <category>java</category>
+      </categories>
+      <tags>
+        <tag>java后端</tag>
+      </tags>
+  </entry>
+</search>
